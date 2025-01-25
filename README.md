@@ -1,4 +1,4 @@
 # Noob-hacker-IP-team
-Project
 $ pkg install python
-$ 
+$ git clone https://github.com/12345678MNIN/Noob-hacker-IP-team.git
+$ bash install.sh
